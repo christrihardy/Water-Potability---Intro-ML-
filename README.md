@@ -1,5 +1,6 @@
 # Water Potability Model - Intro to ML Project
 
+Analysis: https://medium.com/@ctrihardy/water-potability-classifier-machine-learning-modeling-project-548592373ba0
 ## Objective
 Membuat model machine learning untuk memprediksi klasifikasi water potability
 
