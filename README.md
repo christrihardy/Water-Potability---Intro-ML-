@@ -19,6 +19,7 @@ Dataset "Water Quality" dari [Kaggle](https://www.kaggle.com/datasets/adityakadi
 
 ## Modelling 
 Metric: Precision
+
 Model yang digunakan:
 - KNN
 - Random Forest
